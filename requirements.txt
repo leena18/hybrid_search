@@ -35,6 +35,7 @@ neo4j==5.14
 langchain_groq
 langchain_openai
 langchain_experimental
+pinecone
 pinecone-client
 pinecone-text
 pinecone-notebooks
